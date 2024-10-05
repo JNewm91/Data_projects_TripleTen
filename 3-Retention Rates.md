@@ -1,4 +1,4 @@
-## Analysis Summary of Retention Rates and Conversion Funnels for Superstore
+## Analysis Summary of Retention Rates and Conversion Funnels in an E-Commerce Context
 
 **Overview**:
 
