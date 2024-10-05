@@ -4,6 +4,8 @@
 
 This analysis examines the conversion rates and retention patterns of users engaging with a superstore over a timeline from September 24, 2020, to February 28, 2021. The primary objective is to identify trends in user behavior, especially concerning their journey from initial website views to completed purchases, as well as their retention over time. Through a structured conversion funnel and cohort analysis, we glean insights into user interactions and provide actionable recommendations to enhance customer retention and conversion efficiency.
 
+**Analysis Spreadsheet**: https://docs.google.com/spreadsheets/d/14HxNVLs9En2RqHJYRxIq8g4P2rkOp10JNfegRppXEys/edit?gid=38637670#gid=38637670
+
 **Conversion Funnel Analysis**:
 
 The conversion funnel analysis reveals a gradual decline in overall conversion rates as users progress through different stages, from initial webpage views to final purchases. Notably, while there is a decrease in conversion from the first steps (views to cart additions), there is a marked recovery from the "shopping cart" actions to actual purchases. This indicates that users who actively engage with the shopping cart are significantly more likely to complete their purchases.
