@@ -18,9 +18,9 @@ To ensure the analysis focused on viable investment opportunities, the following
 
 1. **Neighborhood Insights**:
 
-    * Lower East Side emerged as the neighborhood with the highest number of reviews in the past year, suggesting it has the highest frequency of vacation rentals.
+    * **Lower East Side** emerged as the neighborhood with the highest number of reviews in the past year, suggesting it has the highest frequency of vacation rentals.
 
-    * Other notable neighborhoods include Hell's Kitchen and Harlem, which also showed significant activity.
+    * Other notable neighborhoods include **Hell's Kitchen** and **Harlem**, which also showed significant activity.
 
 2. **Property Types**:
 
