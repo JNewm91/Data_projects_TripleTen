@@ -2,7 +2,7 @@
 
 **Overview**:
 
-This analysis examines the conversion rates and retention patterns of users engaging with a superstore over a timeline from September 24, 2020, to February 28, 2021. The primary objective is to identify trends in user behavior, especially concerning their journey from initial website views to completed purchases, as well as their retention over time. Through a structured conversion funnel and cohort analysis, we glean insights into user interactions and provide actionable recommendations to enhance customer retention and conversion efficiency.
+This analysis examines the conversion rates and retention patterns of users engaging with an e-commerce company over a timeline from September 24, 2020, to February 28, 2021. The primary objective is to identify trends in user behavior, especially concerning their journey from initial website views to completed purchases, as well as their retention over time. Through a structured conversion funnel and cohort analysis, we glean insights into user interactions and provide actionable recommendations to enhance customer retention and conversion efficiency.
 
 **Analysis Spreadsheet**: https://docs.google.com/spreadsheets/d/14HxNVLs9En2RqHJYRxIq8g4P2rkOp10JNfegRppXEys/edit?gid=38637670#gid=38637670
 
@@ -44,4 +44,4 @@ The raw data utilized for this analysis was filtered to focus on finalized purch
 
 **Conclusion**:
 
-The analysis underscores the critical nature of optimizing the conversion funnel and addressing retention challenges within user cohorts. By focusing on the key insights and implementing the recommendations provided, the superstore can enhance user engagement, increase conversion rates, and ultimately improve retention, driving sustained growth and profitability.
+The analysis underscores the critical nature of optimizing the conversion funnel and addressing retention challenges within user cohorts. By focusing on the key insights and implementing the recommendations provided, the e-commerce company can enhance user engagement, increase conversion rates, and ultimately improve retention, driving sustained growth and profitability.
