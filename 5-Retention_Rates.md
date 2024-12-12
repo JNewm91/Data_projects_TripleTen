@@ -2,7 +2,7 @@
 
 This analysis examines the conversion rates and retention patterns of users engaging with an e-commerce platform over the timeline from September 24, 2020, to February 28, 2021. The primary objective is to identify trends in user behavior regarding their journey from initial product views to completed purchases, as well as their retention over time. Through a structured conversion funnel and cohort analysis, we aim to gain insights into user interactions and provide actionable recommendations to enhance customer retention and conversion efficiency.
 
-**Analysis Spreadsheet**: https://docs.google.com/spreadsheets/d/14HxNVLs9En2RqHJYRxIq8g4P2rkOp10JNfegRppXEys/edit?gid=38637670#gid=38637670
+**[Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/14HxNVLs9En2RqHJYRxIq8g4P2rkOp10JNfegRppXEys/edit?gid=38637670#gid=38637670)** https://docs.google.com/spreadsheets/d/14HxNVLs9En2RqHJYRxIq8g4P2rkOp10JNfegRppXEys/edit?gid=38637670#gid=38637670
 
 **Conversion Funnel Analysis**:
 
