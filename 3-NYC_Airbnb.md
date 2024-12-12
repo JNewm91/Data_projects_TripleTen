@@ -4,8 +4,6 @@ This report provides an in-depth analysis of the vacation rental market in Manha
 
 **[Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1VQxqOcarpwEsGc0c3OBWmCXrKzn2EC_57AsKMfncg5c/edit?gid=1935101742#gid=1935101742)**
 
-https://docs.google.com/spreadsheets/d/1VQxqOcarpwEsGc0c3OBWmCXrKzn2EC_57AsKMfncg5c/edit?gid=1935101742#gid=1935101742
-
 ## Data Overview
 
 **Filtering Criteria**:
