@@ -5,9 +5,8 @@ The data observed indicates that the Western United States exhibits a notably hi
 Nationally, return volumes peak on Sundays across all categories, while Saturdays experience the lowest return volumes. Additionally, items purchased in August have the highest return rates throughout the year. In terms of product categories, machines, fasteners, and appliances show the highest average return rates. Notably, although paper products have a significantly high return count, their sales volume does not proportionally reflect this return rate.
 
 **[Dashboard](https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVEDash/Dashboard1?publish=yes)**
-https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVEDash/Dashboard1?publish=yes
 
-**Story on Tableau Public**:
+**[Story on Tableau Public](https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVE/Story1?publish=yes)**
 https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVE/Story1?publish=yes
 
 ## Speculations and Potential Causes:
