@@ -7,7 +7,6 @@ Nationally, return volumes peak on Sundays across all categories, while Saturday
 **[Dashboard](https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVEDash/Dashboard1?publish=yes)**
 
 **[Story on Tableau Public](https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVE/Story1?publish=yes)**
-https://public.tableau.com/app/profile/joseph.newman2054/viz/SPRINTFIVE/Story1?publish=yes
 
 ## Speculations and Potential Causes:
 
