@@ -2,7 +2,9 @@
 
 This report provides an in-depth analysis of the vacation rental market in Manhattan, New York City, using data collected from 2009 to the end of 2023. The goal is to identify trends, popular property types, and optimal neighborhoods for investment in vacation rentals, thereby aiding potential investors in making informed decisions.
 
-**Analysis Spreadsheet**: https://docs.google.com/spreadsheets/d/1VQxqOcarpwEsGc0c3OBWmCXrKzn2EC_57AsKMfncg5c/edit?gid=1935101742#gid=1935101742
+**[Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1VQxqOcarpwEsGc0c3OBWmCXrKzn2EC_57AsKMfncg5c/edit?gid=1935101742#gid=1935101742)**
+
+https://docs.google.com/spreadsheets/d/1VQxqOcarpwEsGc0c3OBWmCXrKzn2EC_57AsKMfncg5c/edit?gid=1935101742#gid=1935101742
 
 ## Data Overview
 
