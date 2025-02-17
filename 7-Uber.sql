@@ -1,4 +1,4 @@
--- Description of the data
+-- Description of the data:
 -- A database with info on taxi rides in Chicago: neighborhoods table: data on city neighborhoods
      -- [neighborhoods table: data on city neighborhoods]
         -- name: name of the neighborhood
