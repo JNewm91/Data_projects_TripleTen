@@ -91,8 +91,51 @@ ORDER BY
     trips_amount DESC;
 
 
+-- The code below is used to Retrieve the identifiers of the O'Hare and Loop neighborhoods from the 'neighborhoods table'.
+
+SELECT 
+    neighborhood_id,
+    name
+FROM 
+    neighborhoods 
+WHERE 
+    name LIKE '%Hare' OR name LIKE 'Loop';
 
 
+-- The code below is used to retrieve the weather condition records from the 'weather_records' table for each hour. All hours are broken into two groups: 'Bad' if the description field contains the words 'rain' or 'storm', and 'Good' for others. The resulting field is named 'weather_conditions'.
+
+SELECT 
+    DATE_TRUNC('hour', ts) AS date_hour,
+        CASE 
+            WHEN description LIKE '%rain%' 
+            OR description LIKE '%storm%' 
+                    THEN 'Bad' ELSE 'Good'
+        END AS weather_conditions 
+FROM 
+    weather_records 
+ORDER BY 
+    date_hour;
 
 
+-- The code below is used to retrieve all the rides that started in the Loop (pickup_location_id: 50) on a Saturday and ended at O'Hare (dropoff_location_id: 63) from the 'trips' table. Also retrieved were the weather conditions and duration in seconds for each ride. Rides for which data on weather conditions is not available were omitted. 
 
+SELECT 
+    trips.start_ts AS start_ts,
+    CASE 
+        WHEN weather_records.description LIKE '%rain%' 
+        OR weather_records.description LIKE '%storm%' 
+        THEN 'Bad' ELSE 'Good'
+    END AS weather_conditions, 
+    trips.duration_seconds AS duration_seconds 
+FROM 
+    trips
+    INNER JOIN 
+        weather_records ON DATE_TRUNC('hour', trips.start_ts) 
+        = DATE_TRUNC('hour', weather_records.ts)
+WHERE 
+    trips.pickup_location_id = 50 
+    AND trips.dropoff_location_id = 63 
+    AND EXTRACT('dow' FROM trips.start_ts) = 6 
+    AND weather_records.description IS NOT NULL 
+ORDER BY 
+    trips.trip_id;
