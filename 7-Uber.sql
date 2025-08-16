@@ -91,7 +91,7 @@ ORDER BY
     trips_amount DESC;
 
 
--- The code below is used to Retrieve the identifiers of the O'Hare and Loop neighborhoods from the 'neighborhoods table'.
+-- The code below is used to retrieve the identifiers of the O'Hare and Loop neighborhoods from the 'neighborhoods table'.
 
 SELECT 
     neighborhood_id,
