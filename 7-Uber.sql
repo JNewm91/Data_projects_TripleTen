@@ -120,13 +120,13 @@ ORDER BY
 -- The code below is used to retrieve all the rides that started in the Loop (pickup_location_id: 50) on a Saturday and ended at O'Hare (dropoff_location_id: 63) from the 'trips' table. Also retrieved were the weather conditions and duration in seconds for each ride. Rides for which data on weather conditions is not available were omitted. 
 
 SELECT 
-    trips.start_ts AS start_ts,
+    start_ts,
     CASE 
         WHEN weather_records.description LIKE '%rain%' 
         OR weather_records.description LIKE '%storm%' 
         THEN 'Bad' ELSE 'Good'
     END AS weather_conditions, 
-    trips.duration_seconds AS duration_seconds 
+    duration_seconds 
 FROM 
     trips
     INNER JOIN 
